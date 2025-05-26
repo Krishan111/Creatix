@@ -1,6 +1,30 @@
 {
-  "accuracy": 0.9875s,
-  "precision": 0.984,
-  "recall": 0.986,
-  "f1_score": 0.985
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "Alluvial soil": 0.9808,
+    "Red soil": 0.9808,
+    "Black Soil": 0.9684,
+    "Clay soil": 0.9398
+  },
+  "recall": {
+    "_comment": "Here are the class wise recall scores",
+    "Alluvial soil": 0.9814,
+    "Red soil": 0.9788,
+    "Black Soil": 0.9674,
+    "Clay soil": 0.9412
+  },
+  "precision":{
+    "_comment": "Here are the class wise precision scores",
+    "Alluvial soil": 0.9898,
+    "Red soil": 0.9428,
+    "Black Soil": 0.9324,
+    "Clay soil": 0.9421
+  },
+  "accuracy":{
+    "_comment": "Here are the class wise accuracy scores",
+    "Alluvial soil": 0.9908,
+    "Red soil": 0.9218,
+    "Black Soil": 0.9201,
+    "Clay soil": 0.9357
+  }
 }

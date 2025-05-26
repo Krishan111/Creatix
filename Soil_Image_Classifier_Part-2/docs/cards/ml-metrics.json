@@ -1,0 +1,30 @@
+{
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "Alluvial soil": 0.7719,
+    "Red soil": 0.7808,
+    "Black Soil": 0.7612,
+    "Clay soil": 0.7677
+  },
+  "recall": {
+    "_comment": "Here are the class wise recall scores",
+    "Alluvial soil": 0.7802,
+    "Red soil": 0.7710,
+    "Black Soil": 0.7589,
+    "Clay soil": 0.7749
+  },
+  "precision":{
+    "_comment": "Here are the class wise precision scores",
+    "Alluvial soil": 0.7986,
+    "Red soil": 0.7844,
+    "Black Soil": 0.7673,
+    "Clay soil": 0.7741
+  },
+  "accuracy":{
+    "_comment": "Here are the class wise accuracy scores",
+    "Alluvial soil": 0.7854,
+    "Red soil": 0.7722,
+    "Black Soil": 0.7642,
+    "Clay soil": 0.7578
+  }
+}
