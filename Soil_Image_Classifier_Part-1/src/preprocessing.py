@@ -1,6 +1,4 @@
 """
-
-Author: Annam.ai IIT Ropar
 Team Name: Creatix
 Team Members: Siddharth Malkania, Krishan Verma , Rishi Mehrotra
 Leaderboard Rank: 117

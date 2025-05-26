@@ -1,3 +1,9 @@
+"""
+Team Name: Creatix
+Team Members: Siddharth Malkania, Krishan Verma , Rishi Mehrotra
+Leaderboard Rank: 117
+
+"""
 import numpy as np
 import pandas as pd
 

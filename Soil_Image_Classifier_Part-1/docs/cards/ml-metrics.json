@@ -1,5 +1,10 @@
 {
-  "f1 scores": {
+    "_comment": "This JSON file contains the ml-metrics for binary soil detection (soil/not soil)",
+    "Name": "Siddharth",
+    "Kaggle Username": "shadecreator",
+    "Team Name": "Creatix",
+    
+    "f1 scores": {
     "_comment": "Here are the class wise f1 scores",
     "Alluvial soil": 0.9808,
     "Red soil": 0.9808,
